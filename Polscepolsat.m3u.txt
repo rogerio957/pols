@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVP HD
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138358
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVP 1
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138359
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVP 2
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138360
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVP 3
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138361
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVP Polonia
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/30765
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TTV HD
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Puls 2
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138459
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat News
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138322
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat News 2
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138323
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVN 24
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138372
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TV Republika
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVN 24 Bis
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/14995
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Wpolsce
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVP Rozrywka
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138368
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVN Fabula
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/16251
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat 2
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138311
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Super Polsat
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138313
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Play
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205856
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Cafe
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138312
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Games
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205855
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Comedy Central Extra
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205854
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TV4
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138481
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TV6
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138482
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Red Carpet
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: E! Entertainment
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: BBC Brit
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: BBC LifeStyle
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207071
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: CBS Reality
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Active Family
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207063
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: HGTV HD
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TLC
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207099
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Food Network
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207115
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Kuchnia
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Music
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138321
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: MTV Polska
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138445
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: MTV Live
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: MTV Rocks
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207120
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Stars TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: 4Fun Gold Hits
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207062
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Disco Polo Music
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207075
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: KIino Polska Muzyka
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138393
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polo TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138457
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVS
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138483
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Nuta HD
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Sundance TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Disney Channel
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138409
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Disney Junior
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138410
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Baby TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Nickelodeon
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Nicktoons
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207121
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Nick Junior
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207090
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Da Vinci Learning
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207074
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Doku
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138317
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Viasat Nature
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138337
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Viasat Explore
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205852
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Viasat History
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205853
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Crime Investigation
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207088
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Rodzina
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138325
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVP Kultura
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/129811
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Fokus TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207082
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Canal+ Documentary FHD
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205848
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Canal+ Domo
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207078
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Discovery Life
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207076
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Discovery Channel
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138414
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Discovery History
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Discovery Science
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138417
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Discovery Investigation
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Water Planet
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Nat Geo People
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Nat Geo Wild
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138420
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: History
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207086
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: H2
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: BBC Earth
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207066
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Planete+
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138456
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVN Turbo
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138375
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: DTX
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207079
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Studiomed TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVN
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138370
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TVN 7
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Premiera
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138310
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Seriale
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205857
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Polsat Film
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Canal+ FHD
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138339
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Canal+ 1
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207069
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Canal+ Premium HD
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205849
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Canal+ Seriale
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138342
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Canal+ Film
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Canal+ Family
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: BBC First
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207067
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Paramount Channel HD
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207093
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Kino TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138391
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Cinemax
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138379
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Cinemax 2
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138380
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: HBO 2
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138377
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: HBO 3
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138378
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Fox
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138431
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: AMC
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138400
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: AXN Spin
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138388
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: AXN White
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138389
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: WP
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: TNT
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138469
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Tele 5
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Metro
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Nowa TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207091
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Novela TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Novelas+
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Filmbox Arthouse
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138382
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Filmbox Extra
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138383
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Filmbox Premium
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138385
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Epic Drama
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Ale Kino+
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138390
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: VOD 206
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: VOD 208
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/205864
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: 13 Ulica
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138394
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Stopklatka TV
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207098
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Fight Box
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/138356
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Fightklub
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PL: Motorwizja
+http://sharkytv.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/207119
+
